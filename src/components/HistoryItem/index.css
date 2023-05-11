@@ -1,0 +1,24 @@
+.div1 {
+  display: flex;
+  background-color: white;
+  padding: 8px;
+  justify-content: space-between;
+  align-items: center;
+}
+.div2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+img {
+  height: 16px;
+  width: 16px;
+}
+.delete {
+  height: 15px;
+  width: 15px;
+}
